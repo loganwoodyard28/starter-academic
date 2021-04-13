@@ -58,7 +58,7 @@ social:
 # and uncomment the lines below.
  - icon: 
   icon_pack: ai
-  link: media/resume.pdf
+  link: static/media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,4 +69,3 @@ highlight_name: false
 
 I am a researcher with longstanding roots in the lumber industry as I come from a lineage of Appalachian loggers, mill owners, and operators. My passion for strengthening the ever-changing forest economy in addition to my experience with data analysis leads me to pursue opportunities as an analyst in the wood products industry.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
