@@ -22,11 +22,10 @@ twitter: '@woodyardlogan'
 
 email: 'logan.woodyard@maine.edu'
 phone: '(740) 688-9809'
-address: '223 Nutting Hall'
- # street: 
+address: 223 Nutting Hall
   city: Orono
   region: ME
-  postcode: 04469
+  postcode: '04469'
   #country: United States
   #country_code: US
 #coordinates:
