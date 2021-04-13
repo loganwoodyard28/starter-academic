@@ -28,10 +28,9 @@ education:
   - course: MS in Forest Resources
     concentration: Forest Policy and Economics 
     institution: University of Maine
-    graduation: 2022
   - course: BS in Agribusiness and Applied Economics
     institution: The Ohio State University
-    year: 2020
+    
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
