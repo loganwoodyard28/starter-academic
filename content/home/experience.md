@@ -29,8 +29,8 @@ experience:
     date_start: '2020-09-01'
     date_end: ''
     description: |2- 
-    I research drivers of Maine’s forest economy under varying political, economic, and environmental scenarios using dynamic, intertemporal optimization models.
-    Responsibilities include:
+      I research drivers of Maine’s forest economy under varying political, economic, and environmental scenarios using dynamic, intertemporal optimization models.
+      Responsibilities include:
     
         *Research
         *Optimization Modeling
@@ -43,8 +43,9 @@ experience:
     location: ''
     date_start: '2018-08-01'
     date_end: '2020-08-01'
-    description: |2-  I aided in the development of the 2020-2021 Ohio Medicaid budget by analyzing Medicaid expenditures, enrollment qualifications, and changes in caseload.
-    Responsibilitis include:
+    description: |2-  
+      I aided in the development of the 2020-2021 Ohio Medicaid budget by analyzing Medicaid expenditures, enrollment qualifications, and changes in caseload.
+       Responsibilitis include:
     
         *Economic Forecasting
         *Data Analytics
