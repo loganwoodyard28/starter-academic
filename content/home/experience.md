@@ -26,20 +26,28 @@ experience:
     company: University of Maine
     company_url: ''
     location: Maine
-    date_start: '2020-09'
+    date_start: '2020-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: |2- I research drivers of Maine’s forest economy under varying political, economic, and environmental scenarios using dynamic, intertemporal optimization models.
+    Responsibilities include:
+    
+        *Research
+        *Optimization Modeling
+        *Reviewing Scientific Literature
+        *Academic Writing
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Econometrics and Forecasting Intern
+    company: Ohio Department of Medicaid
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: ''
+    date_start: '2018-08-01'
+    date_end: '2020-08-01'
+    description: |2-  I aided in the development of the 2020-2021 Ohio Medicaid budget by analyzing Medicaid expenditures, enrollment qualifications, and changes in caseload.
+    Responsibilitis include:
+    
+        *Economic Forecasting
+        *Data Analytics
+        *Data Visualization
+        *Policy Analysis
+        *Report Writing
 ---
