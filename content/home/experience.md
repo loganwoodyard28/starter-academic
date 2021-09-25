@@ -54,6 +54,7 @@ experience:
         *Policy Analysis
         *Survey Design
         
+experience:        
   - title: Econometrics and Forecasting Intern
     company: Ohio Department of Medicaid
     company_url: ''
