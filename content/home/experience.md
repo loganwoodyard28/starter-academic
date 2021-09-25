@@ -58,7 +58,7 @@ experience:
   - title: Econometrics and Forecasting Intern
     company: Ohio Department of Medicaid
     company_url: ''
-    location: 'Ohio'
+    location: Ohio
     date_start: '2018-08-01'
     date_end: '2020-08-01'
     description: |2-  
