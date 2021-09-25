@@ -46,9 +46,9 @@ experience:
     date_start: '2021-05-01'
     date_end: '2021-08-01'
     description: |2- 
-    Over ten weeks, I assisted the GOPIF team with ongoing climate research efforts in line with the state-wide carbon neutrality initiative, Maine Won't Wait. I conducted an analysis on forest managment and corresponding carbon sequestration rates to inform goal-setting and policy recommendations for the Maine Forest Carbon Task Force. I also created data coordination strategies that will support the ongoing work with the Maine Climate Council and accompanying Working Groups. 
+    Over ten weeks, I assisted the GOPIF team with ongoing climate research efforts in line with the state-wide carbon neutrality initiative, Maine Won't Wait. I conducted an analysis on forest management and correspoinding carbon sequestration rates to inform goal-setting and policy reccomendations for the Maine Forest Carbon Task Force. I also created data coordination strategies that will support the ongoing work with the Maine Climate Council and accompanying Working Groups.
     
-      Responsibilities include:
+    Responsibilities include:
     
         *Research
         *Policy Analysis
