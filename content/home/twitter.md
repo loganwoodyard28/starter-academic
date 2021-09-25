@@ -10,5 +10,11 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-{{< tweet 666616452582129664 >}}
-<a class="twitter-timeline" href="https://twitter.com/WoodyardLogan?ref_src=twsrc%5Etfw">Tweets by WoodyardLogan</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" 
+   href="https://twitter.com/WoodyardLogan?ref_src=twsrc%5Etfw" 
+   data-width="300"
+   data-height="300"
+   data-chrome= "transparent noborders">
+  Tweets by WoodyardLogan
+</a> 
+   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
