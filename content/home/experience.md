@@ -37,7 +37,7 @@ experience:
         *Optimization Modeling
         *Reviewing Scientific Literature
         *Academic Writing
-        
+
 experience:
   - title: Intern
     company: Governor's Office of Policy and Innovation
