@@ -28,7 +28,7 @@ experience:
     location: Maine
     date_start: '2020-09-01'
     date_end: ''
-    description: |2- 
+    description: |+
       I research drivers of Maine’s forest economy under varying political, economic, and environmental scenarios using dynamic, intertemporal optimization models.
       Responsibilities include:
     
@@ -44,7 +44,7 @@ experience:
     location: Maine
     date_start: '2021-05-01'
     date_end: '2021-08-01'
-    description: |4- 
+    description: |+
     Over ten weeks, I assisted the GOPIF team with ongoing climate research efforts in line with the state-wide carbon neutrality initiative, Maine Won't Wait. I conducted an analysis to inform goal-setting and policy reccomendations for the Maine Forest Carbon Task Force. I also created data coordination strategies that will support the ongoing work with the Maine Climate Council and accompanying Working Groups.
     Responsibilities include:
        
@@ -59,7 +59,7 @@ experience:
     location: Ohio
     date_start: '2018-08-01'
     date_end: '2020-08-01'
-    description: |2-  
+    description: |+
       I aided in the development of the 2020-2021 Ohio Medicaid budget by analyzing Medicaid expenditures, enrollment qualifications, and changes in caseload.
       Responsibilities include:
     
