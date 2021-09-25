@@ -12,8 +12,8 @@ design:
 ---
 <a class="twitter-timeline" 
    href="https://twitter.com/WoodyardLogan?ref_src=twsrc%5Etfw" 
-   data-width="300"
-   data-height="300"
+   data-width="500"
+   data-height="400"
    data-chrome= "transparent noborders">
   Tweets by WoodyardLogan
 </a> 
